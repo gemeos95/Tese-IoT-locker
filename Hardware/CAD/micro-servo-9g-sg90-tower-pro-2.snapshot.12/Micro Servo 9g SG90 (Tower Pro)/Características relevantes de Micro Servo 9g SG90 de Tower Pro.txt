@@ -1,0 +1,10 @@
+Los 3 cables del Micro Servo 9g SG90 de Tower Pro tienen una extensión ligeramente superior a los 25 cm.
+Para demás caraterísticas (cómo la eléctrica y par torsional) ver página oficial de Tower Pro.
+Los tornillos que más se adaptan a este servo son los siguientes (se pueden encontrar en las librerías correspondientes de la mayoría (sino es que en todas) las versiones de SolidWorks, apartado de tornillos con rosca milimétrica):
+
+1.-SL-BHMS 0.06-80x0.25x0.25-N (2 tornillos laterales).
+2.-SL-BHMS 0.06-80x0.188x0.188-N (centro).
+
+
+
+ 
